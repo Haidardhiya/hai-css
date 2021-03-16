@@ -1,0 +1,19 @@
+.p1{
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    margin: 20px auto;
+    padding: 50px;
+    border: 2px solid black;
+}
+
+.p2{
+    width: 200px;
+    height: 200px;
+    background-color: coral;
+    margin: 20px auto;
+    padding: 50px;
+    border: 3px dashed black; 
+}
+
+/* gunakan box sizing saat mengatur box border agar tidak pusing */

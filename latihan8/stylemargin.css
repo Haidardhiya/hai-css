@@ -1,0 +1,24 @@
+.satu{
+    width: 200px;
+    height: 200px;
+    background-color: lightgreen;
+    margin:30px 20px;
+}
+
+.dua{
+    width: 100px;
+    height: 100px;
+    background-color: yellow;
+    margin-top: -50px;
+}
+
+.tiga{
+    width: 50px;
+    height: 50px;
+    background-color: tomato;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* margin vertical tidak akan menambah jumlah dari masing masing2 margin(overlape), berbalik jika kita menggunakan margin horizontal */
+/* margin minus akan mengurangi margin elemen disebelahnya */
