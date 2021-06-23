@@ -9,7 +9,7 @@
     /* flex-direction: column-reverse; */
     /* flex-wrap: wrap; */
     /* justify-content: center; */
-
+    align-items: baseline;
 }
 
 /* flex direction itu ada row, row-reverse, column, dan column-reverse */
@@ -24,3 +24,4 @@ flex start, flex end, center, space between, space around, space evenly */
     background-color: blue;
     margin: 2px;
 }
+
